@@ -1,0 +1,5 @@
+com\example\crrichard\model\Curriculo.class
+com\example\crrichard\controller\CurriculoController.class
+com\example\crrichard\CrRichardApplication.class
+com\example\crrichard\service\CurriculoService.class
+com\example\crrichard\repository\CurriculoRepository.class
